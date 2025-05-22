@@ -1,3 +1,12 @@
+<a href="https://jekyll-themes.com/layoutshub/pelican-twenty-fifteen-theme">
+  <img
+    src="https://img.shields.io/badge/featured%20on-JT-red.svg"
+    height="20"
+    alt="Jekyll Themes Shield"
+  />
+</a>
+
+
 # Pelican-Twenty-Fifteen-Theme
 WordPress Twenty Fifteen Theme for Pelican Satic Site Generator
 
